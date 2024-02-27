@@ -1,0 +1,1 @@
+module kiss-url-shortener
